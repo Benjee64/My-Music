@@ -53,3 +53,8 @@ body {
 
     background-image: url("https://media4.giphy.com/media/j5mwjor5i5PGigmPH2/giphy.gif?cid=790b7611c4068463ad6f4bb25fe9db089fc969c48c02bedb&rid=giphy.gif&ct=g") ;
 }
+h2{
+
+  color:rgb(94, 245, 162);
+  text-align:calc(40px)
+}
