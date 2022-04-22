@@ -55,6 +55,17 @@ body {
 }
 h2{
 
-  color:rgb(94, 245, 162);
-  text-align:calc(40px)
+  color:rgb(72, 223, 140);
+  padding-top: 420px;
+  padding-left:150px;
+
+}
+section .Song2{
+  
+  color:rgb(72, 223, 140);
+  padding-top: 420px;
+  padding-left: 135px;
+}
+section .Song3{
+ color:rgb(72, 223, 140);
 }
